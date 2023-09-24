@@ -31,8 +31,13 @@ img {
 }
 
 footer{
-    margin-top: 5%;
+    margin-top: 2.5%;
     color: #EEEEEE;
     text-align: center;
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Skranji', cursive;
+
+    font-weight:900;
+    font-size:xx-large;
+    text-shadow: 6px 2px  #232931;
+    padding-bottom: 2rem;
 }
